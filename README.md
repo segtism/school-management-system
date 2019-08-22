@@ -11,7 +11,6 @@ for hospital management system visit: www.optimumlinkup.com.ng/hms/index.php
 for school management system visit : www.optimumlinkup.com.ng/software/index.php
 
 watsapp number: +2348033527716
-email: segtism@gmail.com
 facebook account: www.facebook.com/optimumlinkup
 
 Also, we are building complete codeigniter school management system at Udemy. 
