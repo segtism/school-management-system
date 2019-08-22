@@ -14,16 +14,6 @@ watsapp number: +2348033527716
 email: segtism@gmail.com
 facebook account: www.facebook.com/optimumlinkup
 
-
-PAYMENT OPTION
-We accept western union for now, pls bear with us
-Western Union details:
-Name: Olawuyi Segun
-Country: Nigeria
-State: Ogun state
-City: Abeokuta
-Zip code: 23439
-Test question: what is your favourite colour?
-Answer: blue
-Phone number: +2348033527716
-PLS NOTE THAT THE FULL SOURCE CODE COST 50USD FOR EACH SOFTWARE COST JUST 60USD
+Also, we are building complete codeigniter school management system at Udemy. 
+Join us on Udemy as we build complete OFINE school system together
+https://www.udemy.com/course/build-complete-school-system-using-php-codeigniter-framework
