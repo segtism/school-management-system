@@ -1,17 +1,17 @@
-Thanks for downloading this software!
-Please dont forget to like us on www.facebook.com/optimumlinkup
-the username : admin@admin.com
-the password : admin
-the username and password is for both hospital management system and school management system 
-for Point on Sale system visit: www.optimumlinkup.com.ng/pos/index.php
-username for pos is admin
-password  is password
+OFINE Management System is a powerful user-friendly System designed as per user's perspective with multiple MIS reports & multiple logins. The number of school is multiplying faster. Parents have become more attentive about their child, their activities & progress in the school. With our School Management System, parents will receive complete information of their child their Attendance, Daily Time table, Progress reports (current as well as previous) from the comfort of their home. SMS & eMail facility ensures the parents to remain updated with school activities.
 
-for hospital management system visit: www.optimumlinkup.com.ng/hms/index.php
-for school management system visit : www.optimumlinkup.com.ng/software/index.php
+COMPLETE HOSPITAL MANAGEMENT SYSTEM SOURCE CODES AND DATABASE FOR JUST  $15 (JUST 300 BUYERS NEEDED)
 
-watsapp number: +2348033527716
-facebook account: www.facebook.com/optimumlinkup
+Demo Link: https://www.optimumlinkupsoftware.com/optimumhms/
+
+Purchase Link: https://www.optimumlinkup.com.ng/purchasehms/
+
+Once your payment is successful, you will be able to download the software immediately from the success page and also download link will be sent to your email.
+
+INSTALLATION AND SETUP PROCEDURES
+https://www.youtube.com/channel/UCBemL4ht7jmZY9tJ8NGkS-A?sub_confirmation=1
+Please subscribe to our channel for more source codes.
+
 
 Also, we are building complete codeigniter school management system at Udemy. 
 Join us on Udemy as we build complete OFINE school system together
