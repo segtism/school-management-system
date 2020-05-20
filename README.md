@@ -2,9 +2,7 @@ OFINE Management System is a powerful user-friendly System designed as per user'
 
 COMPLETE HOSPITAL MANAGEMENT SYSTEM SOURCE CODES AND DATABASE FOR JUST  $15 (JUST 300 BUYERS NEEDED)
 
-Demo Link: https://www.optimumlinkupsoftware.com/optimumhms/
-
-Purchase Link: https://www.optimumlinkup.com.ng/purchasehms/
+Demo Link: https://www.optimumlinkupsoftware.com/hospital/
 
 Once your payment is successful, you will be able to download the software immediately from the success page and also download link will be sent to your email.
 
